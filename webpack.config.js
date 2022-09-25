@@ -7,7 +7,7 @@ module.exports = (_, argv) => ({
     publicPath:
       argv.mode === "development"
         ? "http://localhost:8080/"
-        : "https://mfe-vue-scrawnycoleman.vercel.app/",
+        : "https://vue-mf-wp5-w9qx.vercel.app/",
   },
 
   resolve: {
